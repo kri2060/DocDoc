@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_delete">Delete</string>
+    <string name="action_favorite">Add to Favorites</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_open">Open</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="action_sort">Sort</string>
+    <string name="app_name">Document Viewer</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_audio">Audio</string>
+    <string name="category_documents">Documents</string>
+    <string name="category_excel">Excel</string>
+    <string name="category_images">Images</string>
+    <string name="category_pdf">PDF</string>
+    <string name="category_powerpoint">PowerPoint</string>
+    <string name="category_videos">Videos</string>
+    <string name="category_word">Word</string>
+    <string name="confirm">Confirm</string>
+    <string name="done">Done</string>
+    <string name="error">Error occurred</string>
+    <string name="feature_last_page">Last Page Recall</string>
+    <string name="feature_pdf_markup">PDF Annotation Tools</string>
+    <string name="feature_smart_search">Smart Search with OCR</string>
+    <string name="feature_tts">Text-to-Speech Reader</string>
+    <string name="loading">Loading...</string>
+    <string name="pdf_op_add_password">Add Password</string>
+    <string name="pdf_op_compress_pdf">Compress PDF</string>
+    <string name="pdf_op_excel_to_pdf">Excel to PDF</string>
+    <string name="pdf_op_images_to_pdf">Images to PDF</string>
+    <string name="pdf_op_merge_pdf">Merge PDF</string>
+    <string name="pdf_op_pdf_to_images">PDF to Images</string>
+    <string name="pdf_op_remove_password">Remove Password</string>
+    <string name="pdf_op_rotate_pdf">Rotate PDF</string>
+    <string name="pdf_op_slide_to_pdf">Slide to PDF</string>
+    <string name="pdf_op_split_pdf">Split PDF</string>
+    <string name="pdf_op_text_to_pdf">Text to PDF</string>
+    <string name="pdf_op_word_to_pdf">Word to PDF</string>
+    <string name="place_favorites">Favorites</string>
+    <string name="place_folders">Folders</string>
+    <string name="place_my_creation">My Creation</string>
+    <string name="place_recent">Recent Files</string>
+    <string name="project_theme">Document Management &amp; PDF Toolkit</string>
+    <string name="success">Success</string>
+    <string name="team_members">Krishna (366) | Adarsh (166) | Mahesh (165)</string>
+    <string name="tool_markup">PDF Markup</string>
+    <string name="tool_notepad">Notepad</string>
+    <string name="tool_ocr">OCR Scanner</string>
+    <string name="tool_search">Smart Search</string>
+    <string name="tool_settings">Settings</string>
+    <string name="tool_tts">Text to Speech</string>
+    <string name="tool_zip_creator">ZIP Creator</string>
+    <style name="Theme.DocumentViewer" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

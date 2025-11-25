@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.documentviewer.app-merged_res-69:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.documentviewer.app-main-71:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.documentviewer.app-merged_res-69:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.documentviewer.app-main-71:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "com.documentviewer.app-merged_res-69:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.documentviewer.app-main-71:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.documentviewer.app-merged_res-69:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.documentviewer.app-main-71:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.documentviewer.app-merged_res-69:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.documentviewer.app-main-71:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.documentviewer.app-merged_res-69:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.documentviewer.app-main-71:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.documentviewer.app-merged_res-69:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\8.2\\com.documentviewer.app-main-71:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.documentviewer.app-merged_res-69:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.documentviewer.app-main-71:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
